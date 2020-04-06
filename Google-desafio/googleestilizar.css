@@ -1,0 +1,114 @@
+#GP{
+width: 245px;
+text-align: center;
+margin-left: auto;
+margin-right: 5px;
+font-size: 10pt;
+margin-top: 15px;}
+
+
+
+#Pesquisar{
+max-width:560px ;
+margin-top: 30px;
+border-radius: 50px;
+padding-left: 35px;
+padding-bottom: 20px;
+padding-top: 20px;}
+
+
+
+#google{
+  max-width:700px ;
+  max-height: 201px;}
+
+#iddocontainer{
+text-align: center;}
+    
+
+
+.centralizar{
+ margin-left: auto;
+ margin-right: auto;
+margin-top: 5px;}
+
+
+
+#apps{
+max-width: 448px;
+margin-top: 30px;}
+
+
+.appsdozap{
+width:112px ;
+height:112px;
+padding-top: 13px;
+font-size: 9pt;;
+font-family: 'segoe Ui', 'Roboto', arial, sans-serif;
+color:black
+}
+
+
+.appsdozap:hover{
+background-color: whitesmoke;
+border-radius: 5px;}
+
+
+.bolinha{
+ width: 48px;
+ height: 48px;
+background-color: rgb(197, 197, 197);
+border-radius: 50%;
+margin-bottom: 10px;}
+
+.bolinha img{
+width: 28px;
+height:28px;
+margin-top: 10px; }
+
+
+.col-sm{
+padding-left: 0px;
+padding-right: 0px;}
+
+
+#apps2{
+max-width: 350px;}
+
+
+#class1{
+bottom: 0;
+position: fixed;
+width: 100%;
+text-align: center;
+margin-bottom: 40px;}   
+
+
+.seishoras{
+border-radius: 50px;
+color:rgb(0, 140, 255);
+border-color: rgb(221, 221, 221);
+border-width: 2px;
+border-style: solid;}
+
+
+#padariaabriu{
+ font-size: 10pt;
+ padding: 6px;}
+ 
+
+ .bob{
+     color:black}
+
+  a{
+     color:black}
+ 
+ a:hover {
+    color: #000000;}
+    
+#ospassaro{
+   float: right;
+padding: 6px;
+    box-shadow: black;
+}
+
